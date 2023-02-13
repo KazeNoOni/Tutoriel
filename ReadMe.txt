@@ -1,1 +1,1 @@
-Dossier de la documentation QGIS
+Dossier de documentation personnelle
